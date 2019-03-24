@@ -25,6 +25,7 @@ we decided to upload all files needed to reproduce our model at Google Drive and
 ### Download link:
 
 ### Prerequisites  
+-------------
 * pytorch 1.0  
 * cv2  
 * numpy  
@@ -34,13 +35,12 @@ we decided to upload all files needed to reproduce our model at Google Drive and
 
 
 ### How to Run
-username: swjung (swjung83@gmail.com)   
 -------------
+username: swjung (swjung83@gmail.com)   
 > Track 1: please run 'swjung_track1.py'  
 > Track 2: please run 'swjung_track2.py'  
-
+  
 username: DGU-3DMlab1 (wjdwofus1004@gmail.com)  
--------------
 > Track 1 : please run 'DGU-3DMlab1_track1.py'  
 > Track 2 : please run 'DGU-3DMlab1_track2.py'  
 
