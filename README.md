@@ -43,4 +43,8 @@ username: swjung (swjung83@gmail.com)
 username: DGU-3DMlab1 (wjdwofus1004@gmail.com)  
 > Track 1 : please run 'DGU-3DMlab1_track1.py'  
 > Track 2 : please run 'DGU-3DMlab1_track2.py'  
-
+  
+ 
+Full version for training
+-------------
+https://github.com/spnova12/srgb_denoising
