@@ -24,7 +24,7 @@ we decided to upload all files needed to reproduce our model at Google Drive and
 
 ### Download link:
 
-### Prerequisites  
+Prerequisites  
 -------------
 * pytorch 1.0  
 * cv2  
@@ -34,7 +34,7 @@ we decided to upload all files needed to reproduce our model at Google Drive and
 * scipy  
 
 
-### How to Run
+How to Run
 -------------
 username: swjung (swjung83@gmail.com)   
 > Track 1: please run 'swjung_track1.py'  
