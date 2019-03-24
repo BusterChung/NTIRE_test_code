@@ -25,7 +25,7 @@ we decided to upload all files needed to reproduce our model at Google Drive and
 ### Download link:
 
 ### Prerequisites  
-<ol> pytorch 1.0  
+* pytorch 1.0  
 
 
 ### How to Run
