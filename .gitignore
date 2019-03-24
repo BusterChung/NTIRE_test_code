@@ -1,0 +1,9 @@
+results_folder/
+bfg-1.13.0.jar
+input_file/
+models/
+NTIRE_test_code.git/
+trained_models/
+utils/
+test_ver1_sRGB.py
+test_ver2_sRGB.py
