@@ -26,6 +26,12 @@ we decided to upload all files needed to reproduce our model at Google Drive and
 
 ### Prerequisites  
 * pytorch 1.0  
+* cv2  
+* numpy  
+* tqdm  
+* time  
+* scipy  
+
 
 
 ### How to Run
