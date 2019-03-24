@@ -1,6 +1,6 @@
 NTIRE_test_code
 =============
-These are all test scripts of our Grouped Residual Dense Network(GRDN) for NTIRE Challenge.
+These are all test scripts of our Grouped Residual Dense Network(GRDN) for [NTIRE 2019 Real Image Denoising Challenge](http://www.vision.ee.ethz.ch/ntire19/)
 
 ### The challenge name  
 NTIRE2019 Real Image Denoising Challenge  
