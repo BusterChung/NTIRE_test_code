@@ -33,15 +33,14 @@ we decided to upload all files needed to reproduce our model at Google Drive and
 * scipy  
 
 
-
 ### How to Run
 username: swjung (swjung83@gmail.com)   
 -------------
-> Track 1: please run ''.py  
-> Track 2: please run 'test_ver1_sRGB.py'  
+> Track 1: please run 'swjung_track1.py'  
+> Track 2: please run 'swjung_track2.py'  
 
 username: DGU-3DMlab1 (wjdwofus1004@gmail.com)  
 -------------
-> Track 1 : please run ''.py  
-> Track 2 : please run run 'test_ver2_sRGB.py'  
+> Track 1 : please run 'DGU-3DMlab1_track1.py'  
+> Track 2 : please run 'DGU-3DMlab1_track2.py'  
 
