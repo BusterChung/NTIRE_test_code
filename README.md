@@ -47,7 +47,7 @@ username: DGU-3DMlab1 (wjdwofus1004@gmail.com)
  
 Full version for training
 -------------
-https://github.com/spnova12/srgb_denoising  
+Coming soon!  
 
 Realistic noise simulation(using GAN) test code
 -------------
