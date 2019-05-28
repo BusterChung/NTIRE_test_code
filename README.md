@@ -2,23 +2,13 @@ NTIRE_test_code
 =============
 These are all test scripts of our Grouped Residual Dense Network(GRDN) for [NTIRE 2019 Real Image Denoising Challenge](https://competitions.codalab.org/competitions/21258)
 
+### "WINNER of NTIRE 2019 Real Image Denoising Challenge:sRGB track"
+
 ### Paper uploaded on arXiv!
 https://arxiv.org/abs/1905.11172
 
 ### The challenge name  
-NTIRE2019 Real Image Denoising Challenge  
-
-### team name  
-DGU-3DMLab  
-
-### team leader’s name and email address   
-Seung-Won Jung, swjung83@gmail.com  
-
-### rest of the team members  
-Dong-Wook Kim and Jae-Ryun Chung  
-
-### User names  
-swjung, DGU-3DMlab1  
+NTIRE2019 Real Image Denoising Challenge   
 
 ### PLEASE READ
 We wanted to upload codes, models, and input mat file, but we had trouble when we try to reproduce our results because
