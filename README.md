@@ -2,7 +2,7 @@ NTIRE_test_code
 =============
 These are all test scripts of our Grouped Residual Dense Network(GRDN) for [NTIRE 2019 Real Image Denoising Challenge](https://competitions.codalab.org/competitions/21258)
 
-###Paper uploaded on arXiv!
+### Paper uploaded on arXiv!
 https://arxiv.org/abs/1905.11172
 
 ### The challenge name  
