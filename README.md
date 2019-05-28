@@ -23,9 +23,10 @@ swjung, DGU-3DMlab1
 ### PLEASE READ
 We wanted to upload codes, models, and input mat file, but we had trouble when we try to reproduce our results because
 to upload files over 100mb, We need to use 'git lfs' but it may modify models and test inputs so there will be errors. So
-we decided to upload all files needed to reproduce our model at Google Drive and will share download link here.
+we decided to upload all files needed to reproduce our model at Google Drive and will share download link below:
 
-### Download link:https://drive.google.com/file/d/1hAPTDGYl4JSo0LUE1xdyYlIRsKzw8zYy/view?usp=sharing
+### Download link
+https://drive.google.com/file/d/1hAPTDGYl4JSo0LUE1xdyYlIRsKzw8zYy/view?usp=sharing
 
 Prerequisites  
 -------------
