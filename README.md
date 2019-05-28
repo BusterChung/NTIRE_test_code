@@ -30,7 +30,8 @@ https://drive.google.com/file/d/1hAPTDGYl4JSo0LUE1xdyYlIRsKzw8zYy/view?usp=shari
 
 Prerequisites  
 -------------
-* pytorch 1.0  
+* pytorch 1.0
+* python 3.6 or 3.7
 * cv2  
 * numpy  
 * tqdm  
